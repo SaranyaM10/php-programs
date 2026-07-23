@@ -1,72 +1,80 @@
 # PHP Programs
 
-This repository contains PHP programs, exercises, and mini projects completed during my M.Sc. IT course.
+A collection of PHP programs, exercises, and mini projects developed during my M.Sc. Information Technology course. This repository documents my learning journey from PHP fundamentals to MySQL database integration.
 
-## Units Covered
+## 📚 Topics Covered
 
-### Unit 1 - Building Blocks of PHP
+### PHP Basics
+- PHP Syntax
+- Variables and Constants
+- Data Types
+- Operators
+- Control Statements
+- Functions
 
-* PHP Syntax
-* Variables and Constants
-* Data Types
-* Operators
-* Control Statements
-* Functions
+### Arrays
+- Indexed Arrays
+- Associative Arrays
+- Multidimensional Arrays
 
-### Unit 2 - Working with Strings
+### Strings
+- String Functions
+- String Manipulation
+- String Formatting
 
-* String Functions
-* String Manipulation
-* String Comparison
-* Formatting Strings
+### Variable Scope
+- Local Variables
+- Global Variables
+- Static Variables
 
-### Unit 3 - Date and Time Functions
+### Cookies and Sessions
+- Cookies
+- Session Management
 
-* Date Functions
-* Time Functions
-* Date Formatting
-* Timestamp Operations
+### File and Directory Handling
+- File Operations
+- Directory Operations
 
-### Unit 4 - Error Handling and Debugging
+### Date and Time
+- Date Functions
+- Time Functions
 
-* Error Types
-* Error Reporting
-* Exception Handling
-* Debugging Techniques
+### MySQL with PHP
+- Database Connection
+- CRUD Operations
+- SQL Queries
 
-### Unit 5 - Working with Directories
+## 🛠 Technologies Used
 
-* Creating Directories
-* Reading Directories
-* File and Directory Operations
-* Managing Files and Folders
+- PHP
+- MySQL
+- XAMPP
+- Visual Studio Code
+- Git
+- GitHub
 
-### Unit 6 - Learning Basic SQL Commands
+## 📂 Repository Structure
 
-* DDL Commands
-* DML Commands
-* Database Connectivity
-* Executing SQL Queries using PHP
+```
+exercise1/
+associative-array.php
+indexed-array.php
+global-variable.php
+local-variable.php
+static-variable.php
+string-functions.php
+cookies.php
+...
+```
 
-## Mini Projects
+## 🎯 Purpose
 
-* Student Registration System
-* Login and Authentication System
-* Employee Management System
-* Database-Driven Web Applications
+- Practice PHP programming concepts
+- Improve problem-solving skills
+- Learn PHP with MySQL
+- Build a strong programming foundation
+- Track my learning progress
 
-## Tools and Technologies
+## 📌 Note
 
-* PHP
-* VS Code
-* XAMPP
-* MySQL
-* GitHub
-
-## Purpose
-
-* Strengthen PHP programming skills
-* Learn server-side web development
-* Practice database connectivity and SQL integration
-* Develop mini projects and web applications
-* Maintain a structured learning repository for M.Sc. IT
+This repository is updated regularly as I continue learning PHP. Some programs are practice exercises and may be improved over time.
